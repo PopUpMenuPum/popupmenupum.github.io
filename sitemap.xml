@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://popupmenupum.github.io/index.html</loc>
-    <lastmod>2022-05-01</lastmod>
+    <lastmod>2022-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://popupmenupum.github.io/en.html</loc>
-    <lastmod>2022-05-01</lastmod>
+    <lastmod>2022-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -224,7 +224,7 @@
   </url>
   <url>
     <loc>https://popupmenupum.github.io/de.html</loc>
-    <lastmod>2022-05-01</lastmod>
+    <lastmod>2022-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -234,7 +234,7 @@
       <image:loc>https://popupmenupum.github.io/images/midnight.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://popupmenupum.github.io/images/demo2_en.png</image:loc>
+      <image:loc>https://popupmenupum.github.io/images/demo1_en.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://popupmenupum.github.io/images/logo_windows.png</image:loc>
@@ -249,7 +249,247 @@
       <image:loc>https://popupmenupum.github.io/images/logo_photoshop.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://popupmenupum.github.io/images/demo1_de.png</image:loc>
+      <image:loc>https://popupmenupum.github.io/images/demo2_de.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenupum.github.io/es.html</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/popupmenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/midnight.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo1_en.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_windows.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_internet.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_word.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_photoshop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo2_es.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenupum.github.io/fr.html</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/popupmenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/midnight.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_windows.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_internet.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_word.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_photoshop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo1_fr.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo2_fr.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenupum.github.io/it.html</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/popupmenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/midnight.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_windows.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_internet.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_word.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_photoshop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo1_it.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo2_it.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenupum.github.io/pl.html</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/popupmenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/midnight.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_windows.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_internet.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_word.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_photoshop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo1_pl.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo2_pl.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenupum.github.io/pt.html</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/popupmenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/midnight.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_windows.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_internet.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_word.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_photoshop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo1_pt.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo2_pt.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenupum.github.io/ru.html</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/popupmenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/midnight.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_windows.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_internet.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_word.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_photoshop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo1_ru.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo2_ru.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenupum.github.io/sv.html</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/popupmenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/midnight.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_windows.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_internet.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_word.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_photoshop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo1_sv.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo2_sv.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenupum.github.io/tr.html</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/popupmenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/midnight.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_windows.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_internet.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_word.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/logo_photoshop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo1_tr.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/demo2_tr.png</image:loc>
     </image:image>
   </url>
 </urlset>

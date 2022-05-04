@@ -17,12 +17,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>PopUpMenu</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_index.css?crc=74475641"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3789577447" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_index.css?crc=3848931523"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3770384413" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_index.css?crc=3910178068"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=4053859218" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_index.css?crc=192205734"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=4049578611" id="nomq_pagesheet"/>
   <![endif]-->
     <!--HTML Widget code-->
   
@@ -39,7 +39,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  <body>
 
   <div class="breakpoint active" id="bp_infinity" data-min-width="770"><!-- responsive breakpoint node -->
-   <div class="clearfix borderbox shared_content" id="page" data-content-guid="page_content1"><!-- group -->
+   <div class="clearfix borderbox shared_content" id="page" data-content-guid="page_content"><!-- group -->
     <div class="browser_width shared_content" id="u20415-bw" data-content-guid="u20415-bw_content">
      <a class="nonblock nontext" id="u20415" href="https://midnightitsalmost.github.io/" target="_blank"><!-- simple frame --></a>
     </div>
@@ -49,22 +49,22 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <div class="clearfix grpelem" id="pppu20405"><!-- column -->
      <div class="clearfix colelem shared_content" id="ppu20405" data-content-guid="ppu20405_content"><!-- group -->
-      <div class="clearfix grpelem shared_content" id="pu20405" data-content-guid="pu20405_content"><!-- column -->
+      <div class="clearfix grpelem" id="pu20405"><!-- column -->
        <a class="nonblock nontext museBGSize colelem" id="u20405" href="de.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu20405"><!-- simple frame --></a>
        <a class="nonblock nontext museBGSize colelem" id="u20406" href="es.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu20405"><!-- simple frame --></a>
       </div>
-      <div class="clearfix grpelem shared_content" id="pu20407" data-content-guid="pu20407_content"><!-- column -->
+      <div class="clearfix grpelem" id="pu20407"><!-- column -->
        <a class="nonblock nontext museBGSize colelem" id="u20407" href="en.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu20407"><!-- simple frame --></a>
        <a class="nonblock nontext museBGSize colelem" id="u20408" href="fr.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu20407"><!-- simple frame --></a>
       </div>
-      <div class="clip_frame grpelem shared_content" id="u20418" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="ppu20405" data-content-guid="u20418_content"><!-- image -->
+      <div class="clip_frame grpelem" id="u20418" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="ppu20405"><!-- image -->
        <img class="block temp_no_img_src" id="u20418_img" data-orig-src="images/popupmenu.png?crc=458227525" alt="" width="51" height="84" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <div class="clearfix grpelem shared_content" id="pu20409" data-content-guid="pu20409_content"><!-- column -->
+      <div class="clearfix grpelem" id="pu20409"><!-- column -->
        <a class="nonblock nontext museBGSize colelem" id="u20409" href="it.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu20409"><!-- simple frame --></a>
        <a class="nonblock nontext museBGSize colelem" id="u20410" href="pl.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu20409"><!-- simple frame --></a>
       </div>
-      <div class="clearfix grpelem shared_content" id="pu20411" data-content-guid="pu20411_content"><!-- column -->
+      <div class="clearfix grpelem" id="pu20411"><!-- column -->
        <a class="nonblock nontext museBGSize colelem" id="u20411" href="pt.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu20411"><!-- simple frame --></a>
        <a class="nonblock nontext museBGSize colelem" id="u20412" href="ru.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu20411"><!-- simple frame --></a>
       </div>
@@ -115,6 +115,27 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clip_frame shared_content" id="u20416" data-content-guid="u20416_content"><!-- image -->
      <img class="block temp_no_img_src" id="u20416_img" data-orig-src="images/midnight.png?crc=4142605195" alt="" width="166" height="18" src="images/blank.gif?crc=4208392903"/>
     </div>
+    <div class="grpelem shared_content" id="u69684" data-content-guid="u69684_content"><!-- custom html -->
+     <script type="text/javascript">
+  function pum_popup(url, height) {
+    var pumw, pumh, pumx, pumy;
+    if (window.screen.width < 320) {
+      pumw = window.screen.width
+      pumh = 214
+      pumx = 0
+      pumy = 0
+    } else {
+      pumw = 404
+      pumh = 269
+      pumx = (window.screen.width / 2) - ((pumw / 2) + 10);
+      pumy = (window.screen.height / 2) - ((pumh / 2) + 50);
+    }
+    window.open(url, "Window2", "status=no,height=" + pumh + ",width=" + pumw + ",resizable=yes,left=" + pumx + ",top=" + pumy + ",screenX=" + pumx + ",screenY=" + pumy + ",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no");
+  }
+</script>
+
+
+    </div>
     <div class="grpelem shared_content" id="u743" data-content-guid="u743_content"><!-- simple frame --></div>
     <div class="verticalspacer" data-offset-top="839" data-content-above-spacer="839" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    </div>
@@ -142,7 +163,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    </div>
   </div>
   <div class="breakpoint" id="bp_769" data-min-width="602" data-max-width="769"><!-- responsive breakpoint node -->
-   <span class="clearfix borderbox placeholder" data-placeholder-for="page_content1"><!-- placeholder node --></span>
+   <span class="clearfix borderbox placeholder" data-placeholder-for="page_content"><!-- placeholder node --></span>
    <div class="preload_images">
     <img class="preload temp_no_img_src" data-orig-src="images/flag_r_de.jpg?crc=4132694602" alt="" src="images/blank.gif?crc=4208392903"/>
     <img class="preload temp_no_img_src" data-orig-src="images/flag_s_de-u20405-m-fr.jpg?crc=370569586" alt="" src="images/blank.gif?crc=4208392903"/>
@@ -167,7 +188,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    </div>
   </div>
   <div class="breakpoint" id="bp_601" data-min-width="482" data-max-width="601"><!-- responsive breakpoint node -->
-   <div class="clearfix borderbox temp_no_id shared_content" data-orig-id="page" data-content-guid="page_content"><!-- group -->
+   <div class="clearfix borderbox temp_no_id shared_content" data-orig-id="page" data-content-guid="page_content1"><!-- group -->
     <div class="clearfix grpelem" id="pu20415"><!-- group -->
      <span class="browser_width placeholder" data-placeholder-for="u20415-bw_content"><!-- placeholder node --></span>
      <span class="clip_frame placeholder" data-placeholder-for="u20416_content"><!-- placeholder node --></span>
@@ -177,6 +198,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <span class="clearfix colelem placeholder" data-placeholder-for="pu20413_content"><!-- placeholder node --></span>
      <div class="clearfix colelem" id="pu69034"><!-- group -->
       <span class="size_fixed grpelem placeholder" data-placeholder-for="u69034_content"><!-- placeholder node --></span>
+      <span class="grpelem placeholder" data-placeholder-for="u69684_content"><!-- placeholder node --></span>
       <span class="grpelem placeholder" data-placeholder-for="u20350_content"><!-- placeholder node --></span>
      </div>
     </div>
@@ -207,7 +229,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    </div>
   </div>
   <div class="breakpoint" id="bp_481" data-min-width="321" data-max-width="481"><!-- responsive breakpoint node -->
-   <span class="clearfix borderbox placeholder" data-placeholder-for="page_content"><!-- placeholder node --></span>
+   <span class="clearfix borderbox placeholder" data-placeholder-for="page_content1"><!-- placeholder node --></span>
    <div class="preload_images">
     <img class="preload temp_no_img_src" data-orig-src="images/flag_r_de.jpg?crc=4132694602" alt="" src="images/blank.gif?crc=4208392903"/>
     <img class="preload temp_no_img_src" data-orig-src="images/flag_s_de-u20405-m-fr.jpg?crc=370569586" alt="" src="images/blank.gif?crc=4208392903"/>
@@ -232,28 +254,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    </div>
   </div>
   <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
-   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pu20415"><!-- group -->
-     <span class="browser_width placeholder" data-placeholder-for="u20415-bw_content"><!-- placeholder node --></span>
-     <span class="clip_frame placeholder" data-placeholder-for="u20416_content"><!-- placeholder node --></span>
-    </div>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pppu20405"><!-- column -->
-     <div class="clearfix colelem temp_no_id" data-orig-id="ppu20405"><!-- group -->
-      <span class="clearfix grpelem placeholder" data-placeholder-for="pu20405_content"><!-- placeholder node --></span>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="pu20407_content"><!-- placeholder node --></span>
-      <span class="clip_frame grpelem placeholder" data-placeholder-for="u20418_content"><!-- placeholder node --></span>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="pu20409_content"><!-- placeholder node --></span>
-     </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu20413_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu69034"><!-- group -->
-      <span class="size_fixed grpelem placeholder" data-placeholder-for="u69034_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u20350_content"><!-- placeholder node --></span>
-     </div>
-    </div>
-    <span class="clearfix grpelem placeholder" data-placeholder-for="pu20411_content"><!-- placeholder node --></span>
-    <span class="grpelem placeholder" data-placeholder-for="u743_content"><!-- placeholder node --></span>
-    <div class="verticalspacer" data-offset-top="839" data-content-above-spacer="839" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
-   </div>
+   <span class="clearfix borderbox placeholder" data-placeholder-for="page_content1"><!-- placeholder node --></span>
    <div class="preload_images">
     <img class="preload temp_no_img_src" data-orig-src="images/flag_r_de.jpg?crc=4132694602" alt="" src="images/blank.gif?crc=4208392903"/>
     <img class="preload temp_no_img_src" data-orig-src="images/flag_s_de-u20405-m-fr.jpg?crc=370569586" alt="" src="images/blank.gif?crc=4208392903"/>
@@ -267,14 +268,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <img class="preload temp_no_img_src" data-orig-src="images/flag_s_it-u20409-m-fr.jpg?crc=3905668601" alt="" src="images/blank.gif?crc=4208392903"/>
     <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pl.jpg?crc=4101006260" alt="" src="images/blank.gif?crc=4208392903"/>
     <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pl-u20410-m-fr.jpg?crc=4234706949" alt="" src="images/blank.gif?crc=4208392903"/>
-    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_sv.jpg?crc=3977916519" alt="" src="images/blank.gif?crc=4208392903"/>
-    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_sv.png?crc=3828183009" alt="" src="images/blank.gif?crc=4208392903"/>
-    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_tr.jpg?crc=297935144" alt="" src="images/blank.gif?crc=4208392903"/>
-    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_tr.png?crc=363654833" alt="" src="images/blank.gif?crc=4208392903"/>
     <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pt.jpg?crc=4105134551" alt="" src="images/blank.gif?crc=4208392903"/>
     <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pt.png?crc=3766434107" alt="" src="images/blank.gif?crc=4208392903"/>
     <img class="preload temp_no_img_src" data-orig-src="images/flag_r_ru.jpg?crc=4123157147" alt="" src="images/blank.gif?crc=4208392903"/>
     <img class="preload temp_no_img_src" data-orig-src="images/flag_s_ru-u20412-m-fr.jpg?crc=3902317072" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_sv.jpg?crc=3977916519" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_sv.png?crc=3828183009" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_tr.jpg?crc=297935144" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_tr.png?crc=363654833" alt="" src="images/blank.gif?crc=4208392903"/>
    </div>
   </div>
   <!-- JS includes -->

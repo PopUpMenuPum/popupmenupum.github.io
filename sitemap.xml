@@ -2082,4 +2082,19 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://popupmenupum.github.io/en_download.html</loc>
+    <lastmod>2022-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/popupmenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/midnight.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenupum.github.io/images/download_ahk_en.png</image:loc>
+    </image:image>
+  </url>
 </urlset>
